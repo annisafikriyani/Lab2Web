@@ -39,6 +39,7 @@ B. Langkah - Langkah Praktikum
 
 4. **Membuat Tabel Data Mahasiswa**
     - Menampilkan informasi biodata mahasiswa (Nama, NIM, Tanggal Lahir, dll.) menggunakan tag `<table>`, `<thead>`, dan `<tbody>`.
+      
 +<img width="342" height="453" alt="image" src="https://github.com/user-attachments/assets/2f53bd74-14d1-404c-b6e3-a69406b1b076" />
 
 5. **Membuat Form Biodata & Validasi Input**
